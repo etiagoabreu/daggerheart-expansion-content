@@ -1,0 +1,107 @@
+{
+  "id": "daggerheart-expansion-content",
+  "title": "Daggerheart: Expansion Content",
+  "description": "<p>News Ancestries and Classes Homebrews for Daggerheart: Vulkar, Mireanos, Astral, Nyxari and Ferrun.</p>",
+  "version": "0.0.1",
+
+  "authors": [
+    {
+      "name": "etiagoabreu"
+    }
+  ],
+
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+
+  "relationships": {
+    "systems": [
+      {
+        "id": "daggerheart",
+        "type": "system"
+      }
+    ]
+  },
+
+  "packs": [
+    {
+      "name": "ancestries",
+      "label": "Ancestries",
+      "path": "packs/items/ancestries",
+      "type": "Item",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "classes",
+      "label": "Classes",
+      "path": "packs/items/classes",
+      "type": "Item",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "communities",
+      "label": "Communities",
+      "path": "packs/items/communities",
+      "type": "Item",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "domains",
+      "label": "Domains",
+      "path": "packs/items/domains",
+      "type": "Item",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "subclasses",
+      "label": "Subclasses",
+      "path": "packs/items/subclasses",
+      "type": "Item",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "transformations",
+      "label": "Transformations",
+      "path": "packs/items/transformations",
+      "type": "Item",
+      "system": "daggerheart",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+
+  "esmodules": [
+    "module.js"
+  ],
+ 	
+  "flags": {
+    "canUpload": true
+  },
+  "url": "https://github.com/etiagoabreu/daggerheart-expansion-content",
+  "manifest": "https://github.com/etiagoabreu/daggerheart-expansion-content/releases/latest/download/module.json",
+  "download": "https://github.com/etiagoabreu/daggerheart-expansion-content/releases/latest/download/daggerheart-expansion-content.zip"
+
+}
