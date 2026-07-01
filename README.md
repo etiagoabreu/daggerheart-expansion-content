@@ -5,7 +5,7 @@
 ![FoundryVTT](https://img.shields.io/badge/FoundryVTT-v14-orange)
 ![Foundryborne](https://img.shields.io/badge/Foundryborne-v2.2.1-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Version](https://img.shields.io/badge/Version-v0.1.1-gray)
+![Version](https://img.shields.io/badge/Version-v0.1.2-gray)
 ![Status](https://img.shields.io/badge/Status-em%20desenvolvimento-gray)
 
 </div>
